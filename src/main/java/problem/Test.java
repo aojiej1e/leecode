@@ -13,6 +13,7 @@ import java.util.stream.Collectors;
  */
 public class Test {
     public static void main(String[] args) {
+        //注释
         User user1 = new User();
         user1.setName("12");
         user1.setAge(1);
